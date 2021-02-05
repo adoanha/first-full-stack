@@ -6,4 +6,4 @@
 ### Steps taken in this project
 1. Install all dependencies and devDependencies using npm install
     - Change scripts within package.json
-2. Import libraries server files, setup layouts, ports, etc.
+2. Import libraries for server files, setup layouts, ports, etc.
