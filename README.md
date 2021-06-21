@@ -1,7 +1,8 @@
 # first-full-stack
 
-## Goal: To learn how to hook up a database to my web projects
+This web application is a database where you can store information about books. You may add your own authors and books, and you can query books that you've already entered.
 
+## Goal: To learn how to hook up a database to my web projects
 
 ### First Steps
 1. Install all dependencies and devDependencies using npm install
@@ -15,7 +16,7 @@
 2. Create model for author
 3. Create _form_fields to import pieces of html from here instead of having it copied on every page
 
-# Books
+### Books
 1. Create route and pages for books
     - Index
     - New
